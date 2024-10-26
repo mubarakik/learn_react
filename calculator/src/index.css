@@ -1,0 +1,127 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  --color-accent:rgb(225, 95, 9); 
+  --color-white:rgb(255,255,255);
+}
+
+
+body{
+  display: grid;
+  place-content: center;
+  height: 100dvh;
+  background-color: rgb(174, 216, 245);
+}
+
+button{
+  border:transparent;
+  cursor: pointer;
+}
+
+.calculator{
+  max-width: 478px;
+  background-color: rgb(211, 211, 211);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+
+}
+
+.color-controls{
+  background-color: var(--color-white);
+  display: flex;
+  position: absolute;
+  top: 0.5rem;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+}
+
+.color-controls button{
+  background:transparent;
+}
+
+
+
+.display{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 1rem;
+  margin-top: 4rem;
+}
+
+.display input{
+  border: transparent;
+  font-size: 1.15rem;
+  width: 100%;
+  text-align: end;
+  background: transparent;
+}
+
+.display input:focus,
+.display input:active{  
+  outline: transparent;
+}
+
+
+
+.display .result{
+  font-size: 2.5rem;
+  width: 100%;
+  text-align: end;
+}
+
+.controls-container{
+  border-radius: 1rem 1rem 0 0;
+  background-color: var(--color-white);
+  padding:1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.controls{
+  display: flex;
+  gap: 0.5rem;
+}
+
+.controls button{
+  border-radius: 50%;
+  padding: 0.5rem;  
+} 
+
+.controls button i{
+  font-size: 1rem;
+  font-weight: 500;  
+} 
+
+.calc-btn-grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr;  
+  gap: 0.5rem;
+}
+
+.calc-btn{
+  border-radius: 0.5rem;
+  font-size: 1.25rem;
+  padding: 1rem 1.25rem;
+} 
+
+.calc-btn.span-two {
+  grid-column: span 2;
+}
+
+.calc-btn.btn-accent{
+  background-color:var(--color-accent);
+  color: var(--color-white) ;
+}
+
+.calc-btn.btn-secondary{
+  /* background-color:var(--color-accent); */
+  color: var(--color-accent) ;
+  font-weight: 600;
+}
+

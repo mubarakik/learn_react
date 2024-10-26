@@ -1,0 +1,134 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  /* outline: 1px solid red; */
+}
+
+body{
+  display: grid;
+  place-content: center;
+  height: 100dvh;
+  width: auto;
+}
+
+/* =============== Button styles =============== */
+.btn {
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.3s ease;
+}
+
+/* Primary button */
+.btn-primary {
+  background-color: #007bff;
+  color: white;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+
+/* Icon button */
+.btn-icon {
+  padding: 8px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-icon > .icon {
+  font-size: 20px;
+}
+
+/* Button with both icon and label */
+.btn-icon-label {
+  padding: 10px 20px;
+}
+
+.btn-icon-label > i {
+  font-size: 20px;
+  margin-right: 0.5rem;
+}
+
+/* Secondary button */
+.btn-secondary {
+  background-color: #6c757d; /* Grey color */
+  color: white;
+}
+
+.btn-secondary:hover {
+  background-color: #5a6268; /* Darker grey for hover */
+}
+
+/* Tertiary button (outline button) */
+.btn-tertiary {
+  background-color: transparent;
+  color: #007bff;
+  border: 2px solid #007bff;
+}
+
+.btn-tertiary:hover {
+  background-color: #007bff;
+  color: white;
+}
+
+/* Disabled button */
+.btn-disabled {
+  background-color: #e0e0e0;
+  color: #8a8a8a;
+  cursor: not-allowed;
+  border: none;
+}
+
+.btn-disabled:hover {
+  background-color: #e0e0e0; /* No hover effect */
+}
+
+/* =============== Btn Styles End =============== */
+
+.container{
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+
+}
+
+ul{
+  list-style: none;  
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+li{
+  display: flex;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+li .list_buttons{
+  display: flex;
+  gap: 0.5rem;
+}
+
+.done{
+  text-decoration: line-through;
+}
+
+
+
+
+
+

@@ -1,0 +1,131 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+}
+
+*{
+  margin: 0;
+  padding: 0;  
+  /* outline: 1px solid red; */
+}
+
+body{
+  display: grid;
+  place-content: center;
+  height: 100dvh;
+  background-image: url("https://images.pexels.com/photos/39811/pexels-photo-39811.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.glass-effect {
+  background: rgba(81, 80, 80, 0.2); /* Transparent background */
+  border-radius: 15px; /* Rounded corners */
+  padding: 20px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); /* Soft shadow */
+  backdrop-filter: blur(10px); /* Frosted glass effect */
+  -webkit-backdrop-filter: blur(10px); /* For Safari */
+  border: 1px solid rgba(255, 255, 255, 0.3); /* Light border */
+  /* width: 300px; Set a width */
+  /* height: 200px; Set a height */
+  text-align: center;
+  color: #fff; /* White text for visibility */
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+  /* width: 300px; */
+}
+
+
+.card{
+  /* box-shadow: 0px 0px 10px red; */
+  /* padding: 1.5rem; */
+  /* width: max(30%,300px); */
+  width: 100%;
+}
+
+.card-header{
+  border-bottom: 1px solid rgb(224, 220, 220);
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.city-data,.date-data{
+  display: flex;
+  flex-direction: column;  
+  font-size: 1.25rem;
+
+}
+
+.city-data{  
+  align-items: flex-start;
+}
+
+.date-data{
+  align-items: flex-end;
+}
+
+.card-body{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card-footer{
+  border-top: 1px solid rgb(224, 220, 220);
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.25rem;
+}
+
+.temp{
+  font-size: 8rem;
+  font-weight: 400;
+}
+
+.icon{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 1.25rem;
+}
+
+.icon img{
+  width: 8rem;
+  aspect-ratio: 1/1;
+  margin-bottom: -2rem;
+}
+
+form{
+  display: flex;
+  gap: 1rem;
+}
+
+input{
+  padding: 1rem;
+  border-radius: 1rem;
+  min-width: 200px;
+  max-width: 250px;
+  font-size: 1.25rem;
+  border: transparent;
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(10px); /* Frosted glass effect */
+  -webkit-backdrop-filter: blur(10px); /* For Safari */
+  border: 1px solid rgba(255, 255, 255, 0.3); /* Light border */
+  color:rgb(255, 255, 255);
+}
+
+button{
+  padding: 1rem;
+  border-radius: 50%;
+  border: transparent;
+  aspect-ratio: 1/1;
+  font-size: 1.25rem;
+}
+
