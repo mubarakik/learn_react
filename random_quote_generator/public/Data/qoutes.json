@@ -1,0 +1,443 @@
+[
+    {
+      "quote": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs",
+      "tags": ["inspiration", "work", "success"]
+    },
+    {
+      "quote": "Life is what happens when you're busy making other plans.",
+      "author": "John Lennon",
+      "tags": ["life", "plans", "reflection"]
+    },
+    {
+      "quote": "Success is not the key to happiness. Happiness is the key to success.",
+      "author": "Albert Schweitzer",
+      "tags": ["happiness", "success", "life"]
+    },
+    {
+      "quote": "Your time is limited, so don't waste it living someone else's life.",
+      "author": "Steve Jobs",
+      "tags": ["life", "motivation", "time"]
+    },
+    {
+      "quote": "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+      "author": "Martin Luther King Jr.",
+      "tags": ["friendship", "memories", "reflection"]
+    },
+    {
+      "quote": "The best way to predict the future is to invent it.",
+      "author": "Alan Kay",
+      "tags": ["future", "innovation", "vision"]
+    },
+    {
+      "quote": "What we think, we become.",
+      "author": "Buddha",
+      "tags": ["mindset", "philosophy", "spirituality"]
+    },
+    {
+      "quote": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius",
+      "tags": ["perseverance", "motivation", "progress"]
+    },
+    {
+      "quote": "Happiness is not something ready-made. It comes from your own actions.",
+      "author": "Dalai Lama",
+      "tags": ["happiness", "action", "life"]
+    },
+    {
+      "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+      "author": "Oscar Wilde",
+      "tags": ["life", "living", "philosophy"]
+    },
+    {
+      "quote": "You miss 100% of the shots you don't take.",
+      "author": "Wayne Gretzky",
+      "tags": ["risk", "opportunity", "sports"]
+    },
+    {
+      "quote": "The purpose of our lives is to be happy.",
+      "author": "Dalai Lama",
+      "tags": ["life", "purpose", "happiness"]
+    },
+    {
+      "quote": "Courage is grace under pressure.",
+      "author": "Ernest Hemingway",
+      "tags": ["courage", "grace", "strength"]
+    },
+    {
+      "quote": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt",
+      "tags": ["belief", "motivation", "strength"]
+    },
+    {
+      "quote": "Turn your wounds into wisdom.",
+      "author": "Oprah Winfrey",
+      "tags": ["wisdom", "growth", "pain"]
+    },
+    {
+      "quote": "Everything you've ever wanted is on the other side of fear.",
+      "author": "George Addair",
+      "tags": ["fear", "courage", "desire"]
+    },
+    {
+      "quote": "The secret of getting ahead is getting started.",
+      "author": "Mark Twain",
+      "tags": ["motivation", "success", "action"]
+    },
+    {
+      "quote": "If you cannot do great things, do small things in a great way.",
+      "author": "Napoleon Hill",
+      "tags": ["greatness", "perseverance", "focus"]
+    },
+    {
+      "quote": "The best revenge is massive success.",
+      "author": "Frank Sinatra",
+      "tags": ["success", "revenge", "motivation"]
+    },
+    {
+      "quote": "Dream big and dare to fail.",
+      "author": "Norman Vaughan",
+      "tags": ["dreams", "courage", "aspiration"]
+    },
+    {
+      "quote": "You must be the change you wish to see in the world.",
+      "author": "Mahatma Gandhi",
+      "tags": ["change", "inspiration", "action"]
+    },
+    {
+      "quote": "The journey of a thousand miles begins with one step.",
+      "author": "Lao Tzu",
+      "tags": ["journey", "beginnings", "motivation"]
+    },
+    {
+      "quote": "If you want to fly, you have to give up the things that weigh you down.",
+      "author": "Toni Morrison",
+      "tags": ["growth", "freedom", "inspiration"]
+    },
+    {
+      "quote": "Failure is simply the opportunity to begin again, this time more intelligently.",
+      "author": "Henry Ford",
+      "tags": ["failure", "opportunity", "success"]
+    },
+    {
+      "quote": "Do one thing every day that scares you.",
+      "author": "Eleanor Roosevelt",
+      "tags": ["courage", "growth", "adventure"]
+    },
+    {
+      "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson",
+      "tags": ["individuality", "self-worth", "authenticity"]
+    },
+    {
+      "quote": "Success usually comes to those who are too busy to be looking for it.",
+      "author": "Henry David Thoreau",
+      "tags": ["success", "focus", "productivity"]
+    },
+    {
+      "quote": "Act as if what you do makes a difference. It does.",
+      "author": "William James",
+      "tags": ["action", "influence", "motivation"]
+    },
+    {
+      "quote": "Don't wait. The time will never be just right.",
+      "author": "Napoleon Hill",
+      "tags": ["action", "time", "motivation"]
+    },
+    {
+      "quote": "I find that the harder I work, the more luck I seem to have.",
+      "author": "Thomas Jefferson",
+      "tags": ["work", "luck", "success"]
+    },
+    {
+      "quote": "It is never too late to be what you might have been.",
+      "author": "George Eliot",
+      "tags": ["dreams", "life", "motivation"]
+    },
+    {
+      "quote": "The power of imagination makes us infinite.",
+      "author": "John Muir",
+      "tags": ["imagination", "infinity", "nature"]
+    },
+    {
+      "quote": "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.",
+      "author": "Roy T. Bennett",
+      "tags": ["dreams", "courage", "fear"]
+    },
+    {
+      "quote": "Keep your face always toward the sunshine—and shadows will fall behind you.",
+      "author": "Walt Whitman",
+      "tags": ["positivity", "hope", "sunshine"]
+    },
+    {
+      "quote": "Start where you are. Use what you have. Do what you can.",
+      "author": "Arthur Ashe",
+      "tags": ["action", "motivation", "strength"]
+    },
+    {
+      "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+      "author": "Franklin D. Roosevelt",
+      "tags": ["doubt", "future", "confidence"]
+    },
+    {
+      "quote": "The only thing we have to fear is fear itself.",
+      "author": "Franklin D. Roosevelt",
+      "tags": ["fear", "courage", "strength"]
+    },
+    {
+      "quote": "You can’t use up creativity. The more you use, the more you have.",
+      "author": "Maya Angelou",
+      "tags": ["creativity", "inspiration", "growth"]
+    },
+    {
+      "quote": "We become what we think about.",
+      "author": "Earl Nightingale",
+      "tags": ["mindset", "thoughts", "motivation"]
+    },
+    {
+      "quote": "Our lives begin to end the day we become silent about things that matter.",
+      "author": "Martin Luther King Jr.",
+      "tags": ["activism", "courage", "justice"]
+    },
+    {
+      "quote": "The only impossible journey is the one you never begin.",
+      "author": "Tony Robbins",
+      "tags": ["journey", "possibility", "motivation"]
+    },
+    {
+      "quote": "Tough times never last, but tough people do.",
+      "author": "Robert H. Schuller",
+      "tags": ["resilience", "strength", "hope"]
+    },
+    {
+      "quote": "Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless.",
+      "author": "Jamie Paolinetti",
+      "tags": ["imagination", "possibility", "mindset"]
+    },
+    {
+      "quote": "Do what you can, with what you have, where you are.",
+      "author": "Theodore Roosevelt",
+      "tags": ["action", "resourcefulness", "motivation"]
+    },
+    {
+      "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+      "author": "Ralph Waldo Emerson",
+      "tags": ["strength", "inner power", "philosophy"]
+    },
+    {
+      "quote": "The best time to plant a tree was 20 years ago. The second best time is now.",
+      "author": "Chinese Proverb",
+      "tags": ["action", "timing", "proverb"]
+    },
+    {
+      "quote": "All our dreams can come true if we have the courage to pursue them.",
+      "author": "Walt Disney",
+      "tags": ["dreams", "courage", "success"]
+    },
+    {
+      "quote": "If you want to lift yourself up, lift up someone else.",
+      "author": "Booker T. Washington",
+      "tags": ["service", "kindness", "uplifting"]
+    },
+    {
+      "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+      "author": "Winston Churchill",
+      "tags": ["success", "failure", "courage"]
+    },
+    {
+      "quote": "The mind is everything. What you think you become.",
+      "author": "Buddha",
+      "tags": ["mindset", "philosophy", "thoughts"]
+    },
+    {
+      "quote": "We do not remember days, we remember moments.",
+      "author": "Cesare Pavese",
+      "tags": ["memory", "life", "moments"]
+    },
+    {
+      "quote": "No one is perfect - that's why pencils have erasers.",
+      "author": "Wolfgang Riebe",
+      "tags": ["perfection", "mistakes", "learning"]
+    },
+    {
+      "quote": "Life is either a daring adventure or nothing at all.",
+      "author": "Helen Keller",
+      "tags": ["life", "adventure", "courage"]
+    },
+    {
+      "quote": "Don't let yesterday take up too much of today.",
+      "author": "Will Rogers",
+      "tags": ["time", "present", "reflection"]
+    },
+    {
+      "quote": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt",
+      "tags": ["future", "dreams", "believe"]
+    },
+    {
+      "quote": "The past cannot be changed. The future is yet in your power.",
+      "author": "Unknown",
+      "tags": ["future", "past", "empowerment"]
+    },
+    {
+      "quote": "You are never too old to set another goal or to dream a new dream.",
+      "author": "C.S. Lewis",
+      "tags": ["dreams", "age", "goals"]
+    },
+    {
+      "quote": "In the middle of every difficulty lies opportunity.",
+      "author": "Albert Einstein",
+      "tags": ["difficulty", "opportunity", "inspiration"]
+    },
+    {
+      "quote": "We generate fears while we sit. We overcome them by action.",
+      "author": "Dr. Henry Link",
+      "tags": ["fear", "action", "courage"]
+    },
+    {
+      "quote": "The only way to achieve the impossible is to believe it is possible.",
+      "author": "Charles Kingsleigh",
+      "tags": ["belief", "possibility", "motivation"]
+    },
+    {
+      "quote": "Dream as if you'll live forever, live as if you'll die today.",
+      "author": "James Dean",
+      "tags": ["life", "dreams", "motivation"]
+    },
+    {
+      "quote": "Good things come to people who wait, but better things come to those who go out and get them.",
+      "author": "Unknown",
+      "tags": ["action", "success", "patience"]
+    },
+    {
+      "quote": "We cannot solve our problems with the same thinking we used when we created them.",
+      "author": "Albert Einstein",
+      "tags": ["problems", "thinking", "change"]
+    },
+    {
+      "quote": "It's not whether you get knocked down, it's whether you get up.",
+      "author": "Vince Lombardi",
+      "tags": ["resilience", "strength", "sports"]
+    },
+    {
+      "quote": "Do something today that your future self will thank you for.",
+      "author": "Unknown",
+      "tags": ["action", "future", "motivation"]
+    },
+    {
+      "quote": "Little minds are tamed and subdued by misfortune; but great minds rise above them.",
+      "author": "Washington Irving",
+      "tags": ["mindset", "strength", "resilience"]
+    },
+    {
+      "quote": "It always seems impossible until it's done.",
+      "author": "Nelson Mandela",
+      "tags": ["impossible", "achievement", "courage"]
+    },
+    {
+      "quote": "Keep going. Be all in.",
+      "author": "Bryan Hutchinson",
+      "tags": ["perseverance", "dedication", "motivation"]
+    },
+    {
+      "quote": "He who has a why to live can bear almost any how.",
+      "author": "Friedrich Nietzsche",
+      "tags": ["purpose", "life", "strength"]
+    },
+    {
+      "quote": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+      "author": "Zig Ziglar",
+      "tags": ["goals", "growth", "achievement"]
+    },
+    {
+      "quote": "We may encounter many defeats but we must not be defeated.",
+      "author": "Maya Angelou",
+      "tags": ["resilience", "strength", "hope"]
+    },
+    {
+      "quote": "If you want to achieve greatness stop asking for permission.",
+      "author": "Unknown",
+      "tags": ["greatness", "motivation", "action"]
+    },
+    {
+      "quote": "Dream big. Start small. Act now.",
+      "author": "Robin Sharma",
+      "tags": ["dreams", "action", "motivation"]
+    },
+    {
+      "quote": "The only person you are destined to become is the person you decide to be.",
+      "author": "Ralph Waldo Emerson",
+      "tags": ["destiny", "self-improvement", "choice"]
+    },
+    {
+      "quote": "Winning doesn’t always mean being first. Winning means you’re doing better than you’ve ever done before.",
+      "author": "Bonnie Blair",
+      "tags": ["winning", "competition", "motivation"]
+    },
+    {
+      "quote": "Never stop learning because life never stops teaching.",
+      "author": "Unknown",
+      "tags": ["learning", "life", "growth"]
+    },
+    {
+      "quote": "Only I can change my life. No one can do it for me.",
+      "author": "Carol Burnett",
+      "tags": ["change", "self-improvement", "motivation"]
+    },
+    {
+      "quote": "If opportunity doesn’t knock, build a door.",
+      "author": "Milton Berle",
+      "tags": ["opportunity", "action", "creativity"]
+    },
+    {
+      "quote": "The question isn’t who is going to let me; it’s who is going to stop me.",
+      "author": "Ayn Rand",
+      "tags": ["determination", "confidence", "strength"]
+    },
+    {
+      "quote": "Hardships often prepare ordinary people for an extraordinary destiny.",
+      "author": "C.S. Lewis",
+      "tags": ["hardships", "destiny", "resilience"]
+    },
+    {
+      "quote": "If you cannot do great things, do small things in a great way.",
+      "author": "Napoleon Hill",
+      "tags": ["greatness", "perseverance", "focus"]
+    },
+    {
+      "quote": "It is our choices that show what we truly are, far more than our abilities.",
+      "author": "J.K. Rowling",
+      "tags": ["choices", "identity", "wisdom"]
+    },
+    {
+      "quote": "You are never too old to set another goal or to dream a new dream.",
+      "author": "C.S. Lewis",
+      "tags": ["dreams", "goals", "motivation"]
+    },
+    {
+      "quote": "Never give up, for that is just the place and time that the tide will turn.",
+      "author": "Harriet Beecher Stowe",
+      "tags": ["perseverance", "hope", "timing"]
+    },
+    {
+      "quote": "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.",
+      "author": "Christian D. Larson",
+      "tags": ["belief", "confidence", "strength"]
+    },
+    {
+      "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+      "author": "Ralph Waldo Emerson",
+      "tags": ["inner power", "strength", "inspiration"]
+    },
+    {
+      "quote": "Whatever you are, be a good one.",
+      "author": "Abraham Lincoln",
+      "tags": ["excellence", "self-improvement", "motivation"]
+    },
+    {
+      "quote": "Don’t count the days, make the days count.",
+      "author": "Muhammad Ali",
+      "tags": ["time", "motivation", "life"]
+    }
+  ]
+  

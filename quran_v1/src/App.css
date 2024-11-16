@@ -1,0 +1,47 @@
+#root {
+  /* max-width: 1280px;
+  margin: 0 auto; */
+  /* padding: 2rem; */
+  /* text-align: center; */
+  display: grid;
+  grid-template-columns: 300px 1fr;
+  height: 100dvh;  
+}
+
+
+
+.flex-col{
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-row{
+  display: flex;
+  flex-direction: row;
+}
+
+.side-nav{
+  height: 100%;
+  background-color: aquamarine; 
+  gap: 1rem;
+  padding: 0rem 2rem 0rem 2rem ;
+  
+
+}
+
+.side-nav-list{
+  list-style: none;
+  gap:0.5rem;
+  background-color: blue;
+  height: 100%;
+  
+
+  
+}
+
+.side-nav-list-item{
+  background-color: rgba(255,255,255,1);
+  padding: 0.5rem 0.8rem;
+  border-radius: 1rem;
+}
+
